@@ -1,5 +1,6 @@
 # 使用Python tkinter开发文件移动工具：从需求到实现的完整指南
-![img.png](img.png)
+<img width="1002" height="739" alt="image" src="https://github.com/user-attachments/assets/a160cb84-65ac-44c9-8207-8ef6d612e837" />
+
 
 ## 前言
 
