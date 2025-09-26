@@ -315,7 +315,8 @@ def execute_operation(self, operation):
 
 ---
 
-**项目地址**：[GitHub链接]
-**作者**：[作者信息]
+**项目地址**：[git clone https://github.com/IKUN2788/FolderMove.git]
+**作者**：[小庄-Python]
+**联系**：[ikun2788@outlook.com]
 **许可证**：MIT License
-**最后更新**：2024年1月
+**最后更新**：2025年9月26日
